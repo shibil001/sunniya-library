@@ -4,7 +4,7 @@ $visitor_email = $_POST['email'];
 $Subject = $_POST['subject']; 
 $message = $_POST['message'];  
 
-$email_form = 'sanushibil99@gmial.com';
+$email_form = 'info@shibil001.github.io';
 $email_subject = 'New massages';
 $email_body = "User Name: $name.\n".
               "User Email: $visitor_email.\n".
