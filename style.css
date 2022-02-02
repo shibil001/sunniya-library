@@ -62,7 +62,9 @@ nav img{
  /* -----news container----*/
 
 .news-container {
-   position: fixed;
+   position: absolute;
+    max-width: 100%;
+    overflow-x: hidden;
     top: 16.6% ;
     left: 0;
     right: 0;
